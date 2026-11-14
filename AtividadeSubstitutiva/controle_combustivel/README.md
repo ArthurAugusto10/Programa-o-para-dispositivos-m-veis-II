@@ -142,26 +142,6 @@ flutter test
 Os testes verificam cálculos, intervalos inválidos e conversão
 dos abastecimentos para armazenamento.
 
-## Capturas de tela
-
-### Cadastro do veículo
-![Cadastro do veículo](docs/screenshots/cadastro.png)
-
-### Veículo cadastrado
-![Veículo cadastrado](docs/screenshots/veiculo.png)
-
-### Novo abastecimento
-![Registro de abastecimento](docs/screenshots/abastecimento.png)
-
-### Histórico
-![Histórico](docs/screenshots/historico.png)
-
-### Consumo
-![Gráfico de consumo](docs/screenshots/dashboard-consumo.png)
-
-### Custo por quilômetro
-![Gráfico de custo](docs/screenshots/dashboard-custo.png)
-
 ## Armazenamento
 
 Os dados ficam no dispositivo e permanecem após fechar o aplicativo.
